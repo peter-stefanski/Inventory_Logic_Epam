@@ -54,8 +54,8 @@ The test performs the following steps:
 ## Locators Strategy
 
 - XPath locators are used throughout the test.
-- Text-based selection is applied where possible (e.g. selecting elements by visible text like "Login", "Add to cart", or "Remove").
-- XPath expressions use attributes such as `placeholder`, `value`, and element text to locate elements.
+- Text-based selection is applied where possible (e.g. selecting elements by visible text like "Login", "Add to cart" or "Remove").
+- XPath expressions use attributes such as `placeholder`, `value` and element text to locate elements.
 - Relative XPath (e.g. `.//`) is used to search within specific elements.
 
 ---
@@ -74,7 +74,7 @@ The test performs the following steps:
 
 ## 2.Overview of UC-2 Cart State Logic: (UC-2.spec.js)
 
-The purpose of this test is to verify that adding and removing products from the cart works correctly, and that the cart badge updates properly.
+The purpose of this test is to verify that adding and removing products from the cart works correctly and that the cart badge updates properly.
 
 ## Test Scenario
 
