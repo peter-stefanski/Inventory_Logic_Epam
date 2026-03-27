@@ -18,7 +18,7 @@ To run this project locally, make sure you have the following installed:
 
 ---
 
-## 1.Purpose of UC-1 Sorting Validation (UC-1.spec.js)
+## 1.Overview of UC-1 Sorting Validation (UC-1.spec.js)
 
 The purpose of this test is to verify that products on the inventory page are correctly sorted from the lowest price to the highest price.
 
@@ -72,7 +72,7 @@ The test performs the following steps:
 - The test works with dynamic data from the UI (no hardcoded values).
 - Proper waits are used to ensure elements are loaded before interaction.
 
-## 2.Purpose of UC-2 Cart State Logic: (UC-2.spec.js)
+## 2.Overview of UC-2 Cart State Logic: (UC-2.spec.js)
 
 The purpose of this test is to verify that adding and removing products from the cart works correctly, and that the cart badge updates properly.
 
